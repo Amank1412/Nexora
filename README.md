@@ -1,6 +1,6 @@
 # Nexora
 
-Nexora is a modern, responsive web application built with React, Vite, and Tailwind CSS. It aims to deliver a clean UI, fast performance, and scalable architecture for modern frontend development.
+Nexora is a modern, responsive web application built with React, Vite, and Tailwind CSS. It aims to deliver a clean UI, fast performance.
 
 ## Tech Stack
 
