@@ -15,5 +15,5 @@ Nexora is a modern, responsive web application built with React, Vite, and Tailw
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Nexora.git
+   git clone https://github.com/Amank1412/Nexora.git
    cd Nexora
